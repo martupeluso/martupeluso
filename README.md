@@ -3,7 +3,7 @@
 [`📫 martupeluso@proton.me`](mailto:martupeluso@proton.me)
 [`💼 /in/martinapeluso`](https://linkedin.com/in/martinapeluso/)
 
-I'm a 24-year-old web development student from Argentina currently learning at Escuela Da Vinci and The Odin Project. I have an intermediate title in Multimedia Design and I'm now on the last track of my web-dev degree with an average score of 9.57/10.
+I'm a 24-year-old web development student from Argentina currently learning at Escuela Da Vinci and The Odin Project. I have an intermediate title in Multimedia Design and I'm now on the last track of my web-dev degree with an average score of 9.63/10.
 
 My journey on Multimedia got me interested in coding, and so I brought my design interest into this area with UI/UX and accessibility in mind. My goal is to make pretty, fast, accessible and useful websites for people, so I'm constantly going into rabbitholes to learn more about the best web practices overall.
 
